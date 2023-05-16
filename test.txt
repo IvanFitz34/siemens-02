@@ -1,2 +1,3 @@
 Ovo je test.
+Druga linija.
 Ovo sam pisao na GIT hub-u.
